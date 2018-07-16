@@ -10,3 +10,4 @@
 *.project
 *.iml
 .idea
+.idea/modules/
