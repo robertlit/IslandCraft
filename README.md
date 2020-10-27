@@ -1,7 +1,7 @@
 IslandCraft
 ===========
 
-Run ```gradle bukkit``` to build.
+Run ```gradle bukkit``` to build, make sure you have craftbukkit 1.13 in your local repository.
 
 IslandCraft is a Bukkit plugin which modifies the terrain generation to create an ocean with many islands.
 
