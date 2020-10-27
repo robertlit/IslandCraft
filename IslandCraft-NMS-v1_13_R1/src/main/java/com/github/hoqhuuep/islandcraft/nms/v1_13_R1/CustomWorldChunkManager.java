@@ -214,14 +214,4 @@ public class CustomWorldChunkManager extends WorldChunkManager {
         }
         return result;
     }
-
-    /**
-     * Cleans up biomeCache, called in tick
-     */
-    @Override
-    public void X_() {
-        // Clean up biomeCache
-        biomeCache.a();
-        biomeGenerator.cleanupCache();
-    }
 }
